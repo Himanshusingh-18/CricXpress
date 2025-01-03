@@ -201,5 +201,5 @@ Feel free to reach out if you have any questions or suggestions!
 
 - **Email**: hs18173215@gmail.com
 - **Telegram**: [Himanshu singh](https://t.me/flame_1817)
-- **GitHub**: [Himanshu singh](https://github.com/)
+- **GitHub**: [Himanshu singh](https://github.com/Himanshusingh-18)
 - **LinkedIn**: [Himanshu singh](https://www.linkedin.com/in/himanshu-singh-701343222)
