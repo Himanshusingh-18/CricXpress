@@ -33,30 +33,42 @@ CricXpress is a comprehensive cricket information platform built with Django tha
 ## Screenshots
 
 ### Homepage
-![Homepage View 1](screenshots/homepage1.png)
-*Main dashboard view of CricXpress*
+![Homepage View 1](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/homepage1.png)
+![Homepage View 2](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/homepage2.png)
 
-![Homepage View 2](screenshots/homepage2.png)
-*Featured content and quick access sections*
+### Live Matches & Scores
+![Live Matches](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/live_matches.png)
+![Match Scorecard](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/scorecard.png)
+![Live Commentary](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/commentary.png)
 
-### Matches
-![Live Matches](screenshots/live_matches.png)
-*Real-time updates of ongoing cricket matches*
+### Schedule
+![Match Schedule](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/schedule.png)
+![Upcoming Matches](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/upcoming_matches.png)
+![Recent Matches](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/recent_matches.png)
 
-![Recent Matches](screenshots/recent_matches.png)
-*Results of recently concluded matches*
+### News
+![Cricket News](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/news.png)
+![News Details](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/news_details.png)
 
-![Upcoming Matches](screenshots/upcoming_matches.png)
-*Schedule of upcoming cricket fixtures*
+### Players
+![Players List](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/players.png)
+![Player Information](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/player_info.png)
 
-![Match Information](screenshots/match_info.png)
-*Detailed match statistics and information*
+### Teams
+![Teams List](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/teams.png)
+![Squad List](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/squad_list.png)
+![Detailed Squad](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/squad_list1.png)
 
-![Scorecard](screenshots/scorecard.png)
-*Detailed match scorecard*
+### Series
+![Series List](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/serieslist.png)
+![Series Matches](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/matches_list.png)
 
-![Commentary](screenshots/commentary.png)
-*Ball-by-ball commentary with live updates*
+
+
+
+
+
+
 
 ### News
 ![News Section](screenshots/news.png)
