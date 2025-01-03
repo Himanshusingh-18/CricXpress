@@ -177,9 +177,6 @@ CricXpress/
 └── requirements.txt      # Project dependencies
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -190,7 +187,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out if you have any questions or suggestions!
 
-- **Email**: nikhilborse143@gmail.com
-- **Telegram**: [@nikhilborse143](https://t.me/nikhilborse143)
-- **GitHub**: [nikhilborse143](https://github.com/nikhilborse143)
-- **LinkedIn**: [Nikhil Borse](https://www.linkedin.com/in/nikhil-borse-8b7442228/)
+- **Email**: hs18173215@gmail.com
+- **Telegram**: [Himanshu singh](https://t.me/flame_1817)
+- **GitHub**: [Himanshu singh](https://github.com/)
+- **LinkedIn**: [Himanshu singh](https://www.linkedin.com/in/himanshu-singh-701343222)
