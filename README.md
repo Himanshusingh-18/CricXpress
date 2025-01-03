@@ -63,48 +63,6 @@ CricXpress is a comprehensive cricket information platform built with Django tha
 ![Series List](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/serieslist.png)
 ![Series Matches](https://github.com/Himanshusingh-18/CricXpress/blob/main/Morax/screenshots/matches_list.png)
 
-
-
-
-
-
-
-
-### News
-![News Section](screenshots/news.png)
-*Latest cricket news and updates*
-
-![News Details](screenshots/news_details.png)
-*Detailed news articles and coverage*
-
-### Players
-![Players List](screenshots/players.png)
-*Comprehensive player listings*
-
-![Player Information](screenshots/player_info.png)
-*Detailed player statistics and career information*
-
-### Teams
-
-![Teams](screenshots/teams.png)
-*List of teams participating in series*
-
-### Series
-![Series List](screenshots/serieslist.png)
-*Overview of cricket series and tournaments*
-
-![Teams](screenshots/teams.png)
-*List of teams participating in series*
-
-![Matches List](screenshots/matches_list.png)
-*Complete series match schedule and results*
-
-![Squad List](screenshots/squad_list.png)
-*Team squad compositions*
-
-![Squad List Detailed](screenshots/squad_list1.png)
-*Detailed squad information with player roles*
-
 ## Technical Details
 
 ### Built With
